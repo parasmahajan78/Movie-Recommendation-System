@@ -1,2 +1,3 @@
 # Movie-Recommendation-System
-This is my first git repository
+Author - Paras mahajan
+movie recommendation system useful for users to get related movies to find user.
