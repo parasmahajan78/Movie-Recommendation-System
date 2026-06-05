@@ -78,7 +78,7 @@ The recommendation engine suggests movies based on similarities such as:
 
 ## 📸 Screenshot
 
-(Add Project Screenshot Here)
+![image alt](https://github.com/parasmahajan78/Movie-Recommendation-System/blob/5d1a708da51e9c1562d7760f007b9f488fcfaa67/Movie%20Recommend%20Image.png)
 
 ## 👨‍💻 Author
 
